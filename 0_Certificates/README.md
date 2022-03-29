@@ -1,1 +1,6 @@
-Certificates
+Certificates:
+Sololearn C programming certificate
+NDG linux certificate
+Getting started with git certificate
+First day on github - screenshot
+Basic programming in hackerearth - screenshot
